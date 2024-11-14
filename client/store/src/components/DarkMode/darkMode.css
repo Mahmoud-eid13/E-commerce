@@ -1,0 +1,19 @@
+.dark_mode {
+  margin-top: -4px;
+  margin-left: 10px;
+}
+.darkButton {
+  height: 2.2rem;
+  width: 2.2rem;
+  margin-top: 5px;
+  background-color: #ffffff00;
+  color: white;
+  border: none;
+  align-items: center;
+}
+.loo {
+  color: black;
+}
+.noo {
+  color: white;
+}
